@@ -10,11 +10,11 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/guilherme-topanoti-mezari/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1648036392~hmac=0bef4f61219288e73a696dc319f06f9f" /></code>
 </a>
 
 <a href="mailto:guitopanoti@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" /></code>
 </a>
 
 <br/><br/>
