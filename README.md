@@ -1,7 +1,7 @@
 ### Welcome to my page!
 <p>
   I'm Guilherme, Web developer from  <img width="16" src="https://toppng.com/uploads/preview/criciuma-11551058254goynuqvk84.png" alt="Criciúma" /> Criciúma-SC |
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <img width="16" src="https://cdn-icons-png.flaticon.com/512/2151/2151295.png" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
