@@ -10,7 +10,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/guilherme-topanoti-mezari/">
-  <code><img alt="My linkedin" width="28" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1648036392~hmac=0bef4f61219288e73a696dc319f06f9f" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /></code>
 </a>
 
 <a href="mailto:guitopanoti@gmail.com">
